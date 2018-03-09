@@ -1,3 +1,5 @@
 {
+  "test_coffee_amazon.py::test_did_we_get_to_amazon": true,
+  "test_coffee_amazon.py::test_is_cuisinart_a_displayed_coffee_maker": true,
   "test_evaluate.py::test_parse_int": true
 }
