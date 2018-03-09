@@ -6,5 +6,5 @@ def parse_integer(s):
     #   return 834918239812
     if i == 100:
         bottles = i - 1
-        print( '%d to go' % bottles)
+        print( '%d bottles to go' % bottles)
     return i
